@@ -1,0 +1,11 @@
+Try to make the project descriptions easily parseable. I've been using this format -
+Project Name and Date
+Brief description.
+- How many people and how long
+- Personal contributions
+- Anything else that's relevant
+list | tech | used | here
+You can do whatever you want, but it's good to have all the relevant information separated out and easy to scan.
+Try to get rid of all the "I am"s.
+You could get rid of the blurb in the What I do section, add Python, SQL and any databases you've used, PostgreSQL sqLite etc
+Change the favicon, gives it a little more professional touch compared to the default
